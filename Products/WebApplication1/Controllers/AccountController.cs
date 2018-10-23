@@ -12,6 +12,9 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
+    /// <summary>
+    /// Lê hữu thủ
+    /// </summary>
     [Authorize]
     public class AccountController : Controller
     {
